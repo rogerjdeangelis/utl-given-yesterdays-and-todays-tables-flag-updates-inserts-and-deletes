@@ -2,7 +2,11 @@
 Given yesterdays and todays tables flag updates inserts and deletes.
     Given yesterdays and todays tables flag updates inserts and deletes
        
-    see recent solution by SASKiwi on end                                                                                           
+    see recent solution by SASKiwi on end   
+    
+    Two solutions
+     This is useful because you do not have to transmit a complete new table.
+     Insted just transmit the delete, update and replace records with the appropriate 'action' code.
                                                                                                                                     
     Addition by SASKiwi                                                                                                             
     This will tell which keys had a chage (nice)                                                                                    
